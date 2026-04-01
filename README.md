@@ -1,71 +1,95 @@
-<h1 align="center" style="color:#d6c7a1; font-family: 'Cinzel', 'Georgia', serif; letter-spacing:1px; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">
-  👋 Olá, Bem Vindo ao meu perfil XD
-</h1>
-
-<p align="center" style="color:#b8a9a9; font-family: 'Crimson Text', 'Georgia', serif; font-size: 1.1em;">
-  Desenvolvedor focado em Web, sistemas e lógica de baixo nível<br>
-  <span style="color:#8b4513; font-weight: bold; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">
-    HTML • CSS • JavaScript • C • SQL
-  </span>
-</p>
-
-&nbsp;
+<h1 align="center">Bem Vindo ao meu perfil XD</h1>
 
 <p align="center">
   <img src="assets/pixelart.gif" width="100%" style="border-radius: 8px; border: 1px solid #3a2c2c; box-shadow: 0 4px 8px rgba(0,0,0,0.3); background-color: #1a1515;" />
 </p>
 
-<h2 style="color:#c9b18b; font-family: 'Cinzel', 'Georgia', serif; border-bottom: 1px solid #3a2c2c; padding-bottom: 5px;">🧠 Tecnologias</h2>
+<p align="center">
+  Desenvolvedor em formação | Back-end | Front-End | APIs REST | Banco de dados
+</p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" style="filter: sepia(0.3) brightness(0.9); margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" style="filter: sepia(0.3) brightness(0.9); margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" style="filter: sepia(0.3) brightness(0.9); margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" style="filter: sepia(0.3) brightness(0.9); margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" style="filter: sepia(0.3) brightness(0.9); margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" style="filter: sepia(0.3) brightness(0.9); margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" style="filter: sepia(0.3) brightness(0.9); margin: 0 5px;"/>
+  <a href="https://github.com/EnzoToniato567?tab=followers"><img src="https://img.shields.io/github/followers/EnzoToniato567?style=social" alt="Followers"></a>
+  <a href="https://github.com/EnzoToniato567"><img src="https://img.shields.io/github/stars/EnzoToniato567?style=social" alt="Stars"></a>
 </p>
 
-&nbsp;
+---
 
-<h2 style="color:#c9b18b; font-family: 'Cinzel', 'Georgia', serif; border-bottom: 1px solid #3a2c2c; padding-bottom: 5px;">📌 Sobre mim</h2>
+## Sobre mim
 
-<p style="color:#d4c4c4; line-height:1.6; font-family: 'Crimson Text', 'Georgia', serif; font-size: 1.05em; background: rgba(40, 32, 32, 0.2); padding: 15px; border-radius: 5px; border-left: 3px solid #8b4513;">
-  • Desenvolvimento web do zero usando HTML, CSS e JavaScript (Frontend e Backend)<br>
-  • Criação de sistemas simples e eficientes em C<br>
-  • Estruturação e consultas em bancos de dados SQL<br>
-  • Versionamento e organização de projetos com Git
+Sou estudante de Desenvolvimento de Sistemas e venho construindo uma base sólida em desenvolvimento web, com foco em back-end e boas práticas.
+
+- organização de código e legibilidade
+- arquitetura em camadas (routes, controllers e services)
+- modelagem e persistência com banco relacional
+- evolução contínua por meio de projetos práticos
+
+---
+
+## Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+- [Saboré](https://github.com/IsabelleBorges26/Sabore.git)
+  Repositório com objetivo de desenvolver um site FullStack para receitas.
+
+---
+
+## Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoToniato567&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-&nbsp;
-
-<h2 style="color:#c9b18b; font-family: 'Cinzel', 'Georgia', serif; border-bottom: 1px solid #3a2c2c; padding-bottom: 5px;">📈 Caminho</h2>
-
-<p style="color:#d4c4c4; line-height:1.6; font-family: 'Crimson Text', 'Georgia', serif; font-size: 1.05em; background: rgba(40, 32, 32, 0.2); padding: 15px; border-radius: 5px; border-left: 3px solid #8b4513;">
-  🎮 Comecei explorando jogas, mods e lógica<br>
-  ⚙️ Evoluí para sistemas, configs e estruturação<br>
-  🚀 Atualmente focado em projetos próprios e evolução técnica
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoToniato567&theme=tokyonight" alt="Profile Details" />
 </p>
 
-&nbsp;
+---
 
-<h2 style="color:#c9b18b; font-family: 'Cinzel', 'Georgia', serif; border-bottom: 1px solid #3a2c2c; padding-bottom: 5px;">⭐ Projetos em Destaque</h2>
+## 📊 Distribuição de Tecnologias
 
-<p style="color:#d4c4c4; line-height:1.6; font-family: 'Crimson Text', 'Georgia', serif; font-size: 1.05em; background: rgba(40, 32, 32, 0.2); padding: 15px; border-radius: 5px; border-left: 3px solid #8b4513;">
-  🌐 <b style="color:#a0522d;">Projeto Web</b> — HTML, CSS e JavaScript<br>
-  ⚙️ <b style="color:#a0522d;">Sistema em C</b> — lógica, estrutura e desempenho<br>
-  🗄️ <b style="color:#a0522d;">Projeto SQL</b> — modelagem e consultas
-</p>
+<div align="center">
+  
+  | Por Repositórios | Por Commits |
+  |------------------|-------------|
+  | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnzoToniato567&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnzoToniato567&theme=tokyonight) |
+  
+  *Visão completa das tecnologias utilizadas em todos os projetos*
+  
+</div>
 
-&nbsp;
+---
 
-<p align="center" style="color:#8b4513; font-family: 'Cinzel', 'Georgia', serif; font-size: 1.2em; letter-spacing: 2px;">
-  ✠══════✠══════✠
-</p>
+## Objetivos de 2026
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #3a2c2c, #8b4513, #3a2c2c, transparent); margin: 30px 0;">
+- aprofundar Node.js e desenvolvimento de APIs
+- publicar projetos com documentação profissional
+- fortalecer testes e qualidade de código
+- contribuir de forma colaborativa no GitHub
 
-<p align="center" style="color:#8b4513; font-family: 'Cinzel', 'Georgia', serif; font-size: 1.1em; text-shadow: 0 1px 2px rgba(0,0,0,0.3); padding: 15px; background: rgba(40, 32, 32, 0.2); border-radius: 5px;">
-  Construindo projetos, aprendendo continuamente 🚀
-</p>
+---
+
+## Contato
+
+- E-mail: `enzotoniato339@gmail.com`
+- E-mail Educacional: `enzo-toniato331@portalsesisp.org.br`
+
+---
+
+## Frase do perfil
+
+> Construindo consistência todos os dias: estudo, prática e evolução em cada commit.
