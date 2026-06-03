@@ -95,7 +95,7 @@ FullStack platform for sharing and discovering culinary recipes, developed with 
 - 📧 **Personal Email:** `enzotoniato339@gmail.com`
 - 🏫 **Educational Email:** `enzo-toniato331@portalsesisp.org.br`
 - 🐙 **GitHub:** [@EnzoToniato567](https://github.com/EnzoToniato567)
-- 👤 **Personal GitHub** [@ViselBrx](https://github.com/ViselBrx)
+- 👤 **Personal GitHub:** [@ViselBrx](https://github.com/ViselBrx)
 
 ---
 
