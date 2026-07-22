@@ -16,7 +16,7 @@
 
 ---
 
-## 📋 About me
+## About me
 
 I am a **Systems Development** student building a solid foundation in web development, with a focus on back-end and software engineering best practices.
 
@@ -28,7 +28,7 @@ I am a **Systems Development** student building a solid foundation in web develo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -45,7 +45,7 @@ I am a **Systems Development** student building a solid foundation in web develo
 
 ---
 
-## 🚀 Highlighted Projects
+## Highlighted Projects
 
 ### [Saboré](https://github.com/IsabelleBorges26/Sabore.git)
 FullStack platform for sharing and discovering culinary recipes, developed with a layered architecture and software engineering best practices.
@@ -54,7 +54,7 @@ FullStack platform for sharing and discovering culinary recipes, developed with 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EnzoToniato567&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -80,7 +80,7 @@ FullStack platform for sharing and discovering culinary recipes, developed with 
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 - [ ] Deepen **Node.js** knowledge and scalable API development
 - [ ] Publish projects with complete **professional documentation**
@@ -90,21 +90,21 @@ FullStack platform for sharing and discovering culinary recipes, developed with 
 
 ---
 
-## 📞 Contact
+## Contact
 
-- 📧 **Personal Email:** `enzotoniato339@gmail.com`
-- 🏫 **Educational Email:** `enzo-toniato331@portalsesisp.org.br`
-- 🐙 **GitHub:** [@EnzoToniato567](https://github.com/EnzoToniato567)
-- 👤 **Personal GitHub:** [@ViselBrx](https://github.com/ViselBrx)
+- **Personal Email:** `enzotoniato339@gmail.com`
+- **Educational Email:** `enzo-toniato331@portalsesisp.org.br`
+- **GitHub:** [@EnzoToniato567](https://github.com/EnzoToniato567)
+- **Personal GitHub:** [@ViselBrx](https://github.com/ViselBrx)
 
 ---
 
-## 💭 Profile Quote
+## Profile Quote
 
 > _"Building consistency every day: study, practice, and evolution in every commit."_
 
 ---
 
 <p align="center">
-  Developed with ❤️ | © 2026
+  Developed with <3 | © 2026
 </p>
