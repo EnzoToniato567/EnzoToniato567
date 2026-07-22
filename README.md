@@ -21,10 +21,10 @@
 I am a **Systems Development** student building a solid foundation in web development, with a focus on back-end and software engineering best practices.
 
 **My commitments:**
-- ✅ Code organization and readability
-- ✅ Layered architecture (routes, controllers, and services)
-- ✅ Relational database modeling and persistence
-- ✅ Continuous evolution through practical projects
+- Code organization and readability
+- Layered architecture (routes, controllers, and services)
+- Relational database modeling and persistence
+- Continuous evolution through practical projects
 
 ---
 
@@ -66,7 +66,7 @@ FullStack platform for sharing and discovering culinary recipes, developed with 
 
 ---
 
-## 📊 Technology Distribution
+## Technology Distribution
 
 <div align="center">
   
