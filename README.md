@@ -50,7 +50,7 @@ I am a **Systems Development** student building a solid foundation in web develo
 ### [Saboré](https://github.com/IsabelleBorges26/Sabore.git)
 FullStack platform for sharing and discovering culinary recipes, developed with a layered architecture and software engineering best practices.
 
-**Technologies:** Node.js | React | MySQL | REST API | Prisma | HTML5 | CSS3
+**Technologies:** Node.js | Supabase | REST API | Prisma | HTML5 | CSS3 | JavaScript 
 
 ---
 
